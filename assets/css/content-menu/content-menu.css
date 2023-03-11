@@ -1,0 +1,28 @@
+.content-menu{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    background: var(--background-header-mobile);
+}
+
+.content-menu__content-name-page{
+    text-align: center;
+}
+
+.content-name-page__name-page{
+    color: #FFF;
+}
+
+#btn-menu{
+    margin: .5rem;
+    padding: .5rem;
+    border: solid 2px #000;
+    border-radius: 10%;
+    background-color: var(--background-blanco);
+}
+
+.fa-bars{
+    text-transform: capitalize;
+}
+
+
